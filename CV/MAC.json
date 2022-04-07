@@ -130,6 +130,65 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Inevio",
+          "image": {
+            "alt": "C6z-dbRWoAE5z1X.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/6e1ca740-5870-44c7-ada3-ddfb80e977f9_c6z-dbrwoae5z1x.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": " Team Lead & Front End Engineer at Inevio Spain",
+            "startDate": "2015-01-01",
+            "finishDate": "2017-08-01",
+            "challenges": [
+              {
+                "description": "- Partner of Inevio Inc.\n- Team Lead of Frontend Team and Design Team\n- Front End Engineer w/ HTML5, Css3, JavaScript, Canvas, Animations, Adobe Photoshop, ..."
+              }
+            ],
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
+                "type": "technology"
+              },
+              {
+                "name": "PostCSS",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
