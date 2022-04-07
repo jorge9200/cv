@@ -190,6 +190,101 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Inevio",
+          "image": {
+            "alt": "C6z-dbRWoAE5z1X.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/8ba12636-b328-44da-9998-34f266e362b1_c6z-dbrwoae5z1x.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Project Manager & Fullstack developer",
+            "startDate": "2017-08-01",
+            "finishDate": "2019-08-01",
+            "challenges": [
+              {
+                "description": "- Partner of Inevio Inc.\n- Project Manager in product projects from scratch \n- Fullstack Developer w/ AWS, MySql, Kubernetes, Docker, Redis, Chai.js, Mocha.js, Node.js, JavaScript, TypeScript, Less Css, Html5, Css3, Canvas, Animations, Adobe Photoshop, ...\n\nhttps://www.youtube.com/watch?v=jmxjWbEnJms\nhttps://www.youtube.com/watch?v=Amauo9XTfqQ"
+              }
+            ],
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
+                "type": "technology"
+              },
+              {
+                "name": "PostCSS",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "chai",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
