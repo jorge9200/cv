@@ -79,6 +79,57 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Accenture",
+          "image": {
+            "alt": "Accenture-Logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/9c1c6886-76f2-4f4f-8877-1dfc314e51f5_accenture-logo.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2014-07-01",
+            "finishDate": "2015-03-01",
+            "challenges": [
+              {
+                "description": "Architecture and Visual design, using JSPs, Html, JavaScript, CSS, jQuery and others resources."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
