@@ -39,6 +39,49 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Accenture",
+          "image": {
+            "alt": "Accenture-Logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/b07abd8d-40da-4283-bf16-d828adc0c75c_accenture-logo.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "ATG Developer",
+            "startDate": "2014-05-01",
+            "finishDate": "2014-07-01",
+            "challenges": [
+              {
+                "description": "Software Development, using ATGv10, Java, Sql, webLogic and other resources."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Weblogic",
+                "type": "technology"
+              },
+              {
+                "name": "JSP",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
