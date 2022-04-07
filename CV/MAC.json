@@ -27,6 +27,16 @@
         "type": "github",
         "URL": "https://github.com/jorge9200"
       }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "My favorite music artists",
+        "fact": "- The Who\n- Led Zeppelin\n- Foo Fighters\n- Kings of Leon\n- Marvin Gaye\n- ... a lot lot more"
+      },
+      {
+        "topic": "Hobbies list",
+        "fact": "- Crossfit (a lot)\n- Music (a lot also, I play the guitar and now I am playing around to be a DJ)\n- Motorbike (with lot of careful)\n- Ski\n- Surf\n- Trek\n- ... too many hobbies, I love to try new things"
+      }
     ]
   },
   "knowledge": {
@@ -125,6 +135,12 @@
       },
       {
         "skill": {
+          "name": "Hooks",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Jest",
           "type": "technology"
         }
@@ -173,6 +189,32 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/jorgefernandezmanteca/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Redux",
+          "type": "technology"
+        },
+        {
+          "name": "Hooks",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
         }
       ]
     }
