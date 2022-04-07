@@ -1,0 +1,196 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jorge",
+      "surnames": "Fernandez Manteca",
+      "description": "Hello! I'm Jorge and I'm passionate about technology, I've been programming and immersed in technology for 9 years. I love learning, working with the latest technologies and getting involved in my projects as much as possible. I am addict to plan, organize and I love to document and develop with extrem careful all my projects. \n\nI have worked with most of all typical stack of a cloud architecture (from frontend frameworks to node.js, kubernetes, docker, mysql, mongo.db...) , but I am specialized in the use of Javascript and the development in the front-end side. I started long time ago working on vanilla Javascript, then jQuery and on the moment I use React, Vue.Js and Angular on its lasts versions to develop my applications. \n\nI have also worked managing the technical team, planning projects, designing the architecture of web apps, interviewing and training new developers."
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jorgefernandezmanteca/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/jorge9200"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mocha",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Canva",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Less CSS",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jorgefernandezmanteca/"
+        }
+      ]
+    }
+  }
+}
