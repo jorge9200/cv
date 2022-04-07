@@ -8,7 +8,15 @@
     "profile": {
       "name": "Jorge",
       "surnames": "Fernandez Manteca",
-      "description": "Hello! I'm Jorge and I'm passionate about technology, I've been programming and immersed in technology for 9 years. I love learning, working with the latest technologies and getting involved in my projects as much as possible. I am addict to plan, organize and I love to document and develop with extrem careful all my projects. \n\nI have worked with most of all typical stack of a cloud architecture (from frontend frameworks to node.js, kubernetes, docker, mysql, mongo.db...) , but I am specialized in the use of Javascript and the development in the front-end side. I started long time ago working on vanilla Javascript, then jQuery and on the moment I use React, Vue.Js and Angular on its lasts versions to develop my applications. \n\nI have also worked managing the technical team, planning projects, designing the architecture of web apps, interviewing and training new developers."
+      "title": "One of the few that loves JS unconditionally (L)",
+      "description": "Hello! I'm Jorge and I'm passionate about technology, I've been programming and immersed in technology for 9 years. I love learning, working with the latest technologies and getting involved in my projects as much as possible. I am addict to plan, organize and I love to document and develop with extrem careful all my projects. \n\nI have worked with most of all typical stack of a cloud architecture (from frontend frameworks to node.js, kubernetes, docker, mysql, mongo.db...) , but I am specialized in the use of Javascript and the development in the front-end side. I started long time ago working on vanilla Javascript, then jQuery and on the moment I use React, Vue.Js and Angular on its lasts versions to develop my applications. \n\nI have also worked managing the technical team, planning projects, designing the architecture of web apps, interviewing and training new developers.",
+      "avatar": {
+        "alt": "WhatsApp Image 2022-04-07 at 5.07.22 PM.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/2befe315-3013-472c-a901-f2f84810824f_whatsapp-image-2022-.jpeg"
+      },
+      "location": {
+        "notes": "Madrid, Spain"
+      }
     },
     "relevantLinks": [
       {
@@ -69,12 +77,6 @@
       },
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MySQL",
           "type": "technology"
         }
@@ -93,18 +95,6 @@
       },
       {
         "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Redux",
           "type": "technology"
         }
@@ -117,19 +107,7 @@
       },
       {
         "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redis",
           "type": "technology"
         }
       },
@@ -148,6 +126,12 @@
       {
         "skill": {
           "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
           "type": "technology"
         }
       },
