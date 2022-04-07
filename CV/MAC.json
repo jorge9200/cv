@@ -285,6 +285,73 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Aplanet",
+          "image": {
+            "alt": "aplanetlogo_green-1-1024x342-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/218e3112-37e9-4217-bb1f-ed5a7a71cd2b_aplanetlogo_green-1-.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer",
+            "startDate": "2019-08-01",
+            "finishDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "Development of web applications frontend with React, Redux and last frontend technologies."
+              }
+            ],
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Hooks",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "chai",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
