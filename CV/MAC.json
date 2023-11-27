@@ -555,6 +555,12 @@
       },
       {
         "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -666,6 +672,28 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      },
+      {
+        "name": "Vuex",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I would love to work on an enterprise with \"small company culture\" where all opions matter and the focus is always on make the best out possible. I like enterprises focused on one product that involves all the team on the design, growth and development of that product. I love to work and try latest technologies and always be working with the best tools.\n\nI would like to have great flexibility on on remote working but I love building family and having coworkers with I can grow together and meet for work.\n\nThats what is the most important to me, but if I find that also in the sector of videogames, music, motorcycle or photography it would be awesome because I love all these things.",
     "goodPractices": "SOLID principles, Agile and lean metodology, Clean code, TDD/BDD and CI/CD"
   }
