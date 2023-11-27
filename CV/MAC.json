@@ -115,6 +115,7 @@
           {
             "name": "Senior Frontend Developer",
             "startDate": "2020-04-01",
+            "finishDate": "2022-04-01",
             "challenges": [
               {
                 "description": "Leading the Frontend area of a project based on moving a monolithic big application developed in AngularJs to a microservices one developed with VueJs."
