@@ -453,7 +453,7 @@
       {
         "name": "ES",
         "fullName": "Español",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -604,7 +604,11 @@
         "startDate": "2010-01-01",
         "institution": {
           "name": "Universidad Politécnica de Madrid",
-          "description": "Universidad Politécnica de Madrid\nComputer Engineer, Bachelor of Computer Science, Computer Science"
+          "description": "Universidad Politécnica de Madrid\nComputer Engineer, Bachelor of Computer Science, Computer Science",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/27/c4b20e6f-2b45-463d-84c3-7cdbb8ebacdc_logotipo-leyenda-col.png",
+            "alt": "LOGOTIPO-leyenda-color-PNG-p.png"
+          }
         },
         "finishDate": "2015-01-01"
       }
