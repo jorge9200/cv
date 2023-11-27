@@ -596,6 +596,19 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bachelor of Computer Science",
+        "startDate": "2010-01-01",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "description": "Universidad Politécnica de Madrid\nComputer Engineer, Bachelor of Computer Science, Computer Science"
+        },
+        "finishDate": "2015-01-01"
+      }
+    ],
     "softSkills": [
       {
         "skill": {
