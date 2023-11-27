@@ -46,6 +46,65 @@
     "jobs": [
       {
         "organization": {
+          "name": "Parser Digital",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/27/006f3014-d8f0-4951-86a7-152629b973bf_parser_logo.jpeg",
+            "alt": "parser_logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Full Stack Developer",
+            "startDate": "2022-04-01",
+            "finishDate": "2023-04-01",
+            "challenges": [
+              {
+                "description": "Fullstack Senior Developer as a service for the Parser Digital clients.\nWorking on a Cloud-based payments company platform, in a team that owns the design and development of all Developer tools.\nThe role consists in working with the product manager in the thought process of the new possible tools for developers, its design and the total ownership of developing them end to end.\n\nMain technologies: NodeJs in the backend, React v18 with Typescript on the frontend with NextJs on some of the apps we develop.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Century link",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/ee4e3d01-837f-48b2-a51d-f76b5f3f6bd4_descarga.png",
@@ -448,7 +507,7 @@
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Limited working proficiency"
+        "level": "Full professional proficiency"
       },
       {
         "name": "ES",
