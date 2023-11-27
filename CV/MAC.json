@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,13 +11,26 @@
       "title": "One of the few that loves JS unconditionally (L)",
       "description": "Hello! I'm Jorge and I'm passionate about technology, I've been programming and immersed in technology for 9 years. I love learning, working with the latest technologies and getting involved in my projects as much as possible. I am addict to plan, organize and I love to document and develop with extrem careful all my projects. \n\nI have worked with most of all typical stack of a cloud architecture (from frontend frameworks to node.js, kubernetes, docker, mysql, mongo.db...) , but I am specialized in the use of Javascript and the development in the front-end side. I started long time ago working on vanilla Javascript, then jQuery and on the moment I use React, Vue.Js and Angular on its lasts versions to develop my applications. \n\nI have also worked managing the technical team, planning projects, designing the architecture of web apps, interviewing and training new developers.",
       "avatar": {
-        "alt": "WhatsApp Image 2022-04-07 at 5.07.22 PM.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/2befe315-3013-472c-a901-f2f84810824f_whatsapp-image-2022-.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/2befe315-3013-472c-a901-f2f84810824f_whatsapp-image-2022-.jpeg",
+        "alt": "WhatsApp Image 2022-04-07 at 5.07.22 PM.jpeg"
       },
       "location": {
-        "notes": "Madrid, Spain"
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "Hobbies list",
+        "fact": "- Crossfit (a lot)\n- Music (a lot also, I play the guitar and now I am playing around to be a DJ)\n- Motorbike (with lot of careful)\n- Ski\n- Surf\n- Trek\n- ... too many hobbies, I love to try new things"
+      },
+      {
+        "topic": "My favorite music artists",
+        "fact": "- The Who\n- Led Zeppelin\n- Foo Fighters\n- Kings of Leon\n- Marvin Gaye\n- ... a lot lot more"
+      }
+    ],
     "relevantLinks": [
       {
         "type": "linkedin",
@@ -27,26 +40,374 @@
         "type": "github",
         "URL": "https://github.com/jorge9200"
       }
-    ],
-    "interestingFacts": [
-      {
-        "topic": "My favorite music artists",
-        "fact": "- The Who\n- Led Zeppelin\n- Foo Fighters\n- Kings of Leon\n- Marvin Gaye\n- ... a lot lot more"
-      },
-      {
-        "topic": "Hobbies list",
-        "fact": "- Crossfit (a lot)\n- Music (a lot also, I play the guitar and now I am playing around to be a DJ)\n- Motorbike (with lot of careful)\n- Ski\n- Surf\n- Trek\n- ... too many hobbies, I love to try new things"
-      }
     ]
   },
   "experience": {
     "jobs": [
       {
         "organization": {
+          "name": "Century link",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/ee4e3d01-837f-48b2-a51d-f76b5f3f6bd4_descarga.png",
+            "alt": "descarga.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer",
+            "startDate": "2020-04-01",
+            "challenges": [
+              {
+                "description": "Leading the Frontend area of a project based on moving a monolithic big application developed in AngularJs to a microservices one developed with VueJs."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jenkins",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
+              },
+              {
+                "name": "chai",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Aplanet",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/218e3112-37e9-4217-bb1f-ed5a7a71cd2b_aplanetlogo_green-1-.png",
+            "alt": "aplanetlogo_green-1-1024x342-1.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Frontend Developer",
+            "startDate": "2019-08-01",
+            "finishDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "Development of web applications frontend with React, Redux and last frontend technologies."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Hooks",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "chai",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Inevio",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/8ba12636-b328-44da-9998-34f266e362b1_c6z-dbrwoae5z1x.jpg",
+            "alt": "C6z-dbRWoAE5z1X.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Project Manager & Fullstack developer",
+            "startDate": "2017-08-01",
+            "finishDate": "2019-08-01",
+            "challenges": [
+              {
+                "description": "- Partner of Inevio Inc.\n- Project Manager in product projects from scratch \n- Fullstack Developer w/ AWS, MySql, Kubernetes, Docker, Redis, Chai.js, Mocha.js, Node.js, JavaScript, TypeScript, Less Css, Html5, Css3, Canvas, Animations, Adobe Photoshop, ...\n\nhttps://www.youtube.com/watch?v=jmxjWbEnJms\nhttps://www.youtube.com/watch?v=Amauo9XTfqQ"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostCSS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "chai",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Inevio",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/6e1ca740-5870-44c7-ada3-ddfb80e977f9_c6z-dbrwoae5z1x.jpg",
+            "alt": "C6z-dbRWoAE5z1X.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": " Team Lead & Front End Engineer",
+            "startDate": "2015-01-01",
+            "finishDate": "2017-08-01",
+            "challenges": [
+              {
+                "description": "- Partner of Inevio Inc.\n- Team Lead of Frontend Team and Design Team\n- Front End Engineer w/ HTML5, Css3, JavaScript, Canvas, Animations, Adobe Photoshop, ...\n\nhttps://www.youtube.com/watch?v=Ph7nDKYyaqE"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe Photoshop",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostCSS",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Accenture",
           "image": {
-            "alt": "Accenture-Logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/b07abd8d-40da-4283-bf16-d828adc0c75c_accenture-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/9c1c6886-76f2-4f4f-8877-1dfc314e51f5_accenture-logo.png",
+            "alt": "Accenture-Logo.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2014-07-01",
+            "finishDate": "2015-03-01",
+            "challenges": [
+              {
+                "description": "Architecture and Visual design, using JSPs, Html, JavaScript, CSS, jQuery and others resources."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Accenture",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/b07abd8d-40da-4283-bf16-d828adc0c75c_accenture-logo.png",
+            "alt": "Accenture-Logo.png"
           }
         },
         "roles": [
@@ -65,374 +426,15 @@
                 "type": "technology"
               },
               {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
                 "name": "MySQL",
                 "type": "technology"
               },
               {
                 "name": "Weblogic",
-                "type": "technology"
-              },
-              {
-                "name": "JSP",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Accenture",
-          "image": {
-            "alt": "Accenture-Logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/9c1c6886-76f2-4f4f-8877-1dfc314e51f5_accenture-logo.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Frontend Developer",
-            "startDate": "2014-07-01",
-            "finishDate": "2015-03-01",
-            "challenges": [
-              {
-                "description": "Architecture and Visual design, using JSPs, Html, JavaScript, CSS, jQuery and others resources."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JSP",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "JAVA",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Inevio",
-          "image": {
-            "alt": "C6z-dbRWoAE5z1X.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/6e1ca740-5870-44c7-ada3-ddfb80e977f9_c6z-dbrwoae5z1x.jpg"
-          },
-          "URL": ""
-        },
-        "roles": [
-          {
-            "name": " Team Lead & Front End Engineer",
-            "startDate": "2015-01-01",
-            "finishDate": "2017-08-01",
-            "challenges": [
-              {
-                "description": "- Partner of Inevio Inc.\n- Team Lead of Frontend Team and Design Team\n- Front End Engineer w/ HTML5, Css3, JavaScript, Canvas, Animations, Adobe Photoshop, ...\n\nhttps://www.youtube.com/watch?v=Ph7nDKYyaqE"
-              }
-            ],
-            "competences": [
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Less CSS",
-                "type": "technology"
-              },
-              {
-                "name": "PostCSS",
-                "type": "technology"
-              },
-              {
-                "name": "Scss",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Adobe Photoshop",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Inevio",
-          "image": {
-            "alt": "C6z-dbRWoAE5z1X.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/8ba12636-b328-44da-9998-34f266e362b1_c6z-dbrwoae5z1x.jpg"
-          }
-        },
-        "roles": [
-          {
-            "name": "Project Manager & Fullstack developer",
-            "startDate": "2017-08-01",
-            "finishDate": "2019-08-01",
-            "challenges": [
-              {
-                "description": "- Partner of Inevio Inc.\n- Project Manager in product projects from scratch \n- Fullstack Developer w/ AWS, MySql, Kubernetes, Docker, Redis, Chai.js, Mocha.js, Node.js, JavaScript, TypeScript, Less Css, Html5, Css3, Canvas, Animations, Adobe Photoshop, ...\n\nhttps://www.youtube.com/watch?v=jmxjWbEnJms\nhttps://www.youtube.com/watch?v=Amauo9XTfqQ"
-              }
-            ],
-            "competences": [
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Less CSS",
-                "type": "technology"
-              },
-              {
-                "name": "PostCSS",
-                "type": "technology"
-              },
-              {
-                "name": "Scss",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "Kubernetes",
-                "type": "technology"
-              },
-              {
-                "name": "Redis",
-                "type": "technology"
-              },
-              {
-                "name": "chai",
-                "type": "technology"
-              },
-              {
-                "name": "Mocha",
-                "type": "technology"
-              },
-              {
-                "name": "Cypress",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Adobe Photoshop",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Aplanet",
-          "image": {
-            "alt": "aplanetlogo_green-1-1024x342-1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/218e3112-37e9-4217-bb1f-ed5a7a71cd2b_aplanetlogo_green-1-.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Senior Frontend Developer",
-            "startDate": "2019-08-01",
-            "finishDate": "2020-03-01",
-            "challenges": [
-              {
-                "description": "Development of web applications frontend with React, Redux and last frontend technologies."
-              }
-            ],
-            "competences": [
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Redux",
-                "type": "technology"
-              },
-              {
-                "name": "Hooks",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Less CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Scss",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Mocha",
-                "type": "technology"
-              },
-              {
-                "name": "chai",
-                "type": "technology"
-              },
-              {
-                "name": "Cypress",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Century link",
-          "image": {
-            "alt": "descarga.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/ee4e3d01-837f-48b2-a51d-f76b5f3f6bd4_descarga.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Senior Frontend Developer",
-            "startDate": "2020-04-01",
-            "challenges": [
-              {
-                "description": "Leading the Frontend area of a project based on moving a monolithic big application developed in AngularJs to a microservices one developed with VueJs."
-              }
-            ],
-            "competences": [
-              {
-                "name": "AngularJS",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              },
-              {
-                "name": "Vuex",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Less CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Scss",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "Mocha",
-                "type": "technology"
-              },
-              {
-                "name": "chai",
-                "type": "technology"
-              },
-              {
-                "name": "Cypress",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Github",
-                "type": "technology"
-              },
-              {
-                "name": "Confluence",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
                 "type": "technology"
               }
             ]
@@ -444,40 +446,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "English"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "AngularJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
           "type": "technology"
         }
       },
@@ -489,31 +471,19 @@
       },
       {
         "skill": {
-          "name": "MySQL",
+          "name": "Canva",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "SQL",
+          "name": "Confluence",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Jenkins",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mocha",
+          "name": "Cypress",
           "type": "technology"
         }
       },
@@ -531,13 +501,31 @@
       },
       {
         "skill": {
-          "name": "Scss",
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Hooks",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
           "type": "technology"
         }
       },
@@ -549,19 +537,49 @@
       },
       {
         "skill": {
-          "name": "Cypress",
+          "name": "Less CSS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Github",
+          "name": "Mocha",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Confluence",
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       },
@@ -570,17 +588,25 @@
           "name": "Vuex",
           "type": "technology"
         }
-      },
+      }
+    ],
+    "softSkills": [
       {
         "skill": {
-          "name": "Canva",
-          "type": "technology"
+          "name": "Analytical thinking",
+          "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Less CSS",
-          "type": "technology"
+          "name": "Proactivity",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
         }
       }
     ]
@@ -589,15 +615,28 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/jorgefernandezmanteca/"
+          "URL": "https://www.linkedin.com/in/jorgefernandezmanteca/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/jorge9200",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "jorge92f@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "669270948",
+          "countryCode": "+34"
         }
       ]
     },
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "React",
+          "name": "Hooks",
           "type": "technology"
         },
         {
@@ -605,11 +644,11 @@
           "type": "technology"
         },
         {
-          "name": "Redux",
+          "name": "React",
           "type": "technology"
         },
         {
-          "name": "Hooks",
+          "name": "Redux",
           "type": "technology"
         }
       ],
@@ -618,7 +657,16 @@
           "name": "JAVA",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I would love to work on an enterprise with \"small company culture\" where all opions matter and the focus is always on make the best out possible. I like enterprises focused on one product that involves all the team on the design, growth and development of that product. I love to work and try latest technologies and always be working with the best tools.\n\nI would like to have great flexibility on on remote working but I love building family and having coworkers with I can grow together and meet for work.\n\nThats what is the most important to me, but if I find that also in the sector of videogames, music, motorcycle or photography it would be awesome because I love all these things.",
+    "goodPractices": "SOLID principles, Agile and lean metodology, Clean code, TDD/BDD and CI/CD"
   }
 }
