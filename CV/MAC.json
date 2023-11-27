@@ -48,6 +48,48 @@
         "organization": {
           "name": "Parser Digital",
           "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/27/12c96824-e7b1-475d-85a5-fddacf48282b_parser_logo.jpeg",
+            "alt": "parser_logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": " Senior Frontend Developer",
+            "startDate": "2022-05-01",
+            "challenges": [
+              {
+                "description": "Senior Frontend Developer as a service for Parser Digital clients.\nWorking on a Cloud-based payments company platform, in a team that owns the host application for all the services and products offered to the client.\nThe role consists in taking the lead on the front end of that application, working on the possible enhancements, refactors and also the bugs that we may have.\n\nMain technologies: ReactJs, React Testing Library, Git.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Parser Digital",
+          "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/27/006f3014-d8f0-4951-86a7-152629b973bf_parser_logo.jpeg",
             "alt": "parser_logo.jpeg"
           }
