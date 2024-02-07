@@ -633,12 +633,6 @@
       },
       {
         "skill": {
-          "name": "Jest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Less CSS",
           "type": "technology"
         }
@@ -688,12 +682,6 @@
       {
         "skill": {
           "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vuex",
           "type": "technology"
         }
       }
@@ -750,12 +738,6 @@
       ],
       "contactMails": [
         "jorge92f@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "669270948",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -793,6 +775,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Cypress",
+        "type": "technology"
+      },
+      {
         "name": "JavaScript",
         "type": "technology"
       },
@@ -806,10 +792,6 @@
       },
       {
         "name": "Vue",
-        "type": "technology"
-      },
-      {
-        "name": "Vuex",
         "type": "technology"
       }
     ],
