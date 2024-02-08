@@ -757,6 +757,10 @@
         {
           "name": "React Native",
           "type": "technology"
+        },
+        {
+          "name": "Vuex",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
