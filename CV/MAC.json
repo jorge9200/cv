@@ -543,6 +543,30 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "NextJs Chapter for Parser Digital engineers",
+          "description": "An introduction to NextJs technology for React or Frontend developers",
+          "URL": "https://www.icloud.com/iclouddrive/0b2aMIeG1_s3DXPlfBjou2otw#An_introduction_to_NextJs_technology",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/7cca256b-8c40-420f-8526-aeb10cfa3fe1_nextjs-logo-square.png",
+            "alt": "nextjs-logo-square.png"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2023-04-01",
+        "tags": [
+          "Technology talk"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "NextJS",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
