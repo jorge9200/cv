@@ -765,7 +765,15 @@
       ],
       "discardedCompetences": [
         {
+          "name": "C",
+          "type": "technology"
+        },
+        {
           "name": "C#",
+          "type": "technology"
+        },
+        {
+          "name": "C++",
           "type": "technology"
         },
         {
