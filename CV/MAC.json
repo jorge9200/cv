@@ -743,10 +743,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Cypress",
-          "type": "technology"
-        },
-        {
           "name": "JavaScript",
           "type": "technology"
         },
