@@ -702,26 +702,6 @@
         },
         "finishDate": "2015-01-01"
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Analytical thinking",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Proactivity",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Team player",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
