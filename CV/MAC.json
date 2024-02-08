@@ -747,11 +747,11 @@
           "type": "technology"
         },
         {
-          "name": "React",
+          "name": "NextJS",
           "type": "technology"
         },
         {
-          "name": "Redux",
+          "name": "React",
           "type": "technology"
         }
       ],
