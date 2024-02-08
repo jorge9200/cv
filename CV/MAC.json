@@ -702,6 +702,14 @@
         },
         "finishDate": "2015-01-01"
       }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
+        }
+      }
     ]
   },
   "careerPreferences": {
