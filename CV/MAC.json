@@ -709,6 +709,12 @@
           "name": "Analytical thinking",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
       }
     ]
   },
