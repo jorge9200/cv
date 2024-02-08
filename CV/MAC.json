@@ -743,10 +743,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Hooks",
-          "type": "technology"
-        },
-        {
           "name": "JavaScript",
           "type": "technology"
         },
