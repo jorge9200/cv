@@ -753,6 +753,10 @@
         {
           "name": "React",
           "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
         }
       ],
       "discardedCompetences": [
