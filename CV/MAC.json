@@ -109,11 +109,12 @@
       },
       {
         "organization": {
-          "name": "Parser Digital",
+          "name": "Checkout.com",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/27/006f3014-d8f0-4951-86a7-152629b973bf_parser_logo.jpeg",
-            "alt": "parser_logo.jpeg"
-          }
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/19/0bcccb1a-dc38-4c7a-8b08-67a9344500e3_tvfsu1to_400x400.jpg",
+            "alt": "TvfSU1tO_400x400.jpg"
+          },
+          "URL": "https://www.checkout.com/"
         },
         "roles": [
           {
@@ -122,10 +123,14 @@
             "finishDate": "2023-04-01",
             "challenges": [
               {
-                "description": "Fullstack Senior Developer as a service for the Parser Digital clients.\nWorking on a Cloud-based payments company platform, in a team that owns the design and development of all Developer tools.\nThe role consists in working with the product manager in the thought process of the new possible tools for developers, its design and the total ownership of developing them end to end.\n\nMain technologies: NodeJs in the backend, React v18 with Typescript on the frontend with NextJs on some of the apps we develop.\n"
+                "description": "Working for Parser Digital, a consultancy company within the client Checkout.com, a cloud-based platform for payment companies, in a team that owns the design and development of new developer tools.\n\nThe role consists of working with a team of three developers and a product owner to analyse what can be improved in the Checkout.com product, what can be added and how we can improve the testing area of the company's application ecosystem.\n\nThis team wasn't organised on a client/server basis and we all worked together on both sides as we used Javascript on both sides. As part of the work we did on this project was a big migration of React.Js within Next.Js, a big documentation improvement and the inclusion of a CI/CD testing system for the products they were using."
               }
             ],
             "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
               {
                 "name": "Cypress",
                 "type": "technology"
@@ -136,6 +141,10 @@
               },
               {
                 "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
                 "type": "technology"
               },
               {
@@ -155,11 +164,19 @@
                 "type": "technology"
               },
               {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
                 "name": "TestingLibrary",
                 "type": "technology"
               },
               {
                 "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Typeform",
                 "type": "technology"
               }
             ]
