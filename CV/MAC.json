@@ -187,9 +187,10 @@
         "organization": {
           "name": "Century link",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/ee4e3d01-837f-48b2-a51d-f76b5f3f6bd4_descarga.png",
-            "alt": "descarga.png"
-          }
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/19/ca5a1a56-b7d8-41a9-82ff-e4f538929b97_centurylink-symbol.png",
+            "alt": "CenturyLink-Symbol.png"
+          },
+          "URL": "https://centurylink.com/"
         },
         "roles": [
           {
@@ -198,7 +199,7 @@
             "finishDate": "2022-04-01",
             "challenges": [
               {
-                "description": "Leading the Frontend area of a project based on moving a monolithic big application developed in AngularJs to a microservices one developed with VueJs."
+                "description": "Leading the front-end side of one of many teams in a project based on moving a large monolithic application developed in AngularJs to microservices developed in VueJs.\n\nMy job was to analyse the old application, break it down into micro-applications for the new client, propose a new architecture for each new micro-application, and fully develop and test these new applications. I also worked with the team in charge of the company's UI kit to help them and improve the common components they had for the company's global use."
               }
             ],
             "competences": [
@@ -252,6 +253,10 @@
               },
               {
                 "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               },
               {
