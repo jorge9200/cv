@@ -547,6 +547,43 @@
     "projects": [
       {
         "details": {
+          "name": " IDE Filesystem",
+          "description": "A simple web based IDE based on a list of File objects. The path where you can find the file data is here: src/defaultFiles.ts. The file data is an array of File objects. Each File object has a path and contents property. The path is a string that represents the path to the file. The contents are a string that represents the contents of the file.\n\nMain Goals\n1. Show the files in a nested structure, with separate sections for each folder and file.\n2. Make sure the application can handle file structures of any complexity.\n3. Arrange the file tree in a specific order:\n 3.a Folders should be displayed before files.\n 3.b All items should be sorted alphabetically, regardless of uppercase or lowercase letters.\n4. Any changes you make to file contents must persist for the duration of the session and save automatically.\n5. Include tests in the code.\n\nSecondary Goals\n1. Implement a feature to move files to a different folder via drag and drop.\n2. Ability to resize the panels (the file tree and the code editor).",
+          "URL": "https://github.com/jorge9200/ide-filesystem",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/19/17b53d32-c65c-4ed1-b916-ca3e7d0c3d9c_reactjs.png",
+            "alt": "ReactJS.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2024-02-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MaterialUI",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2024-02-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "A NextJs 14 and Next Auth Introduction",
           "description": "This is a Next.js project for showing up how to develop a simple ToDo web app with an authentication system made with Next Auth.",
           "URL": "https://github.com/jorge9200/todo-webapp",
@@ -878,6 +915,9 @@
     "desiredJobDescription": "I would love to work in a company with a 'small company culture'. Where all opinions matter and the focus is always on making the best of it. \n\nI like companies with a focus on one product, where the whole team is involved in the design, growth and development of that product. I love working with and trying out the latest technologies and always working with the best tools.\n\nI love being flexible and working from home, but I also love building a family and getting together with colleagues.\n\nI'm a big fan of video games, music, motorcycles and photography so it would be great if I can relate to that too.",
     "goodPractices": "I understand and apply SOLID, KISS, YAGNI... Personally, it has been difficult for me to find a project in my career where TDD was a priority, although I consider testing an indispensable part of development and I always apply it, both unit and integration testing. \n\nI am used to working in high performance teams, applying continuous CD/CI and I love cleanliness and simplicity. Last but not least, I'm used to work in SCRUM and other agile methodologies.\n\n",
     "projects": [
+      {
+        "name": " IDE Filesystem"
+      },
       {
         "name": "A NextJs 14 and Next Auth Introduction"
       }
