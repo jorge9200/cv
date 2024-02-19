@@ -46,22 +46,27 @@
     "jobs": [
       {
         "organization": {
-          "name": "Parser Digital",
+          "name": "Checkout.com",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/27/12c96824-e7b1-475d-85a5-fddacf48282b_parser_logo.jpeg",
-            "alt": "parser_logo.jpeg"
-          }
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/19/f7b1bddb-cb75-455a-b63f-1e282445ea5e_tvfsu1to_400x400.jpg",
+            "alt": "TvfSU1tO_400x400.jpg"
+          },
+          "URL": "https://www.checkout.com/"
         },
         "roles": [
           {
             "name": " Senior Frontend Developer",
-            "startDate": "2022-05-01",
+            "startDate": "2023-04-01",
             "challenges": [
               {
-                "description": "Senior Frontend Developer as a service for Parser Digital clients.\nWorking on a Cloud-based payments company platform, in a team that owns the host application for all the services and products offered to the client.\nThe role consists in taking the lead on the front end of that application, working on the possible enhancements, refactors and also the bugs that we may have.\n\nMain technologies: ReactJs, React Testing Library, Git.\n"
+                "description": "Working for Parser Digital (https://www.parserdigital.com/), a consultancy firm within Checkout.com client, a cloud-based payment company platform, in a team that owns two major applications. One that hosts all the services and products offered to the client, and another that provides a template system of tables and formularies managed by JSON objects that are used by the rest of the company's teams.\n\nThe role consists of taking the lead on the front-end side of these applications, working on the possible enhancements, refactoring and also the bugs that we may have. \n\nOur main goal is to refactor and almost completely redevelop the way the two applications work. For the hosting application, the routing system was causing a lot of problems and it was not very easy for the hosted micro-applications to modify it. For the templates application, we needed to refactor the entire client validation system to allow more possible combinations and fix the ones we were already using."
               }
             ],
             "competences": [
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
               {
                 "name": "Git",
                 "type": "technology"
@@ -75,11 +80,27 @@
                 "type": "technology"
               },
               {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
                 "name": "React",
                 "type": "technology"
               },
               {
+                "name": "SonarQube",
+                "type": "technology"
+              },
+              {
                 "name": "TestingLibrary",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
