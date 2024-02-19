@@ -349,20 +349,21 @@
       },
       {
         "organization": {
-          "name": "Inevio",
+          "name": "Horbito",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/8ba12636-b328-44da-9998-34f266e362b1_c6z-dbrwoae5z1x.jpg",
-            "alt": "C6z-dbRWoAE5z1X.jpg"
-          }
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/19/6c23d61a-dcf4-4f6e-82e8-093f4af64831_descarga.png",
+            "alt": "descarga.png"
+          },
+          "URL": "https://twitter.com/horbiting"
         },
         "roles": [
           {
-            "name": "Project Manager & Fullstack developer",
+            "name": "Lead Software Engineer",
             "startDate": "2017-08-01",
             "finishDate": "2019-08-01",
             "challenges": [
               {
-                "description": "- Partner of Inevio Inc.\n- Project Manager in product projects from scratch \n- Fullstack Developer w/ AWS, MySql, Kubernetes, Docker, Redis, Chai.js, Mocha.js, Node.js, JavaScript, TypeScript, Less Css, Html5, Css3, Canvas, Animations, Adobe Photoshop, ...\n\nhttps://www.youtube.com/watch?v=jmxjWbEnJms\nhttps://www.youtube.com/watch?v=Amauo9XTfqQ"
+                "description": "Partner in Inevio Inc (Horbito) and one of the original 4 co-founders. A company focused on developing the web operating system, a web that looks and works like a computer. Where you could use your applications with your files, anywhere and on any device.\n\nIn this second stage of the company, we raised a $1 million fund and changed the organisation of the development team to smaller teams per business vertical with a more full-stack approach. I led the team that focused on the B2B part of the business, building the tools and technology for that.\n\nThinking from scratch about what needed to be done, helping to design it from the UI/UX side and designing the code architecture of the new feature. Finally, developing, testing and maintaining the new features. On the server side we worked with AWS, Node.Js, Kubernetes and Docker. For the client side, we started working with vanilla Javascript with jQuery or Canvas on top of it and ended up with the latest frameworks that everyone is using now, in this case trying React.Js.\n\nAs a partner in the company, I was on the board of directors, designing the roadmap of the company and helping with any problems that might arise in the business side. So I worked on fundraising projects, travelling around the world to raise money for the company, I worked as a commercial, selling our product via email and in the field, and as a product developer, designing how the product would evolve.\n\nhttps://www.youtube.com/watch?v=jmxjWbEnJms\nhttps://www.youtube.com/watch?v=Amauo9XTfqQ"
               }
             ],
             "competences": [
