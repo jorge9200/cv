@@ -445,20 +445,21 @@
       },
       {
         "organization": {
-          "name": "Inevio",
+          "name": "Horbito",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/6e1ca740-5870-44c7-ada3-ddfb80e977f9_c6z-dbrwoae5z1x.jpg",
-            "alt": "C6z-dbRWoAE5z1X.jpg"
-          }
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/19/6719f464-1fbc-4ae2-b058-78ca0fa5fb25_descarga.png",
+            "alt": "descarga.png"
+          },
+          "URL": "https://twitter.com/horbiting"
         },
         "roles": [
           {
-            "name": " Team Lead & Front End Engineer",
+            "name": "Frontend Lead Engineer",
             "startDate": "2015-01-01",
             "finishDate": "2017-08-01",
             "challenges": [
               {
-                "description": "- Partner of Inevio Inc.\n- Team Lead of Frontend Team and Design Team\n- Front End Engineer w/ HTML5, Css3, JavaScript, Canvas, Animations, Adobe Photoshop, ...\n\nhttps://www.youtube.com/watch?v=Ph7nDKYyaqE"
+                "description": "Partner in Inevio Inc (Horbito) and one of the original 4 co-founders. A company focused on developing the web operating system, a web that looks and works like a computer. Where you could use your applications with your files, anywhere and on any device.\n\nIn this first stage of the company we started to build this web operative system, building from scratch all the applications needed to fulfil the needs of a casual user. We developed a text editor, a calendar, a file system application, video and audio players and all the rest of the typical standard applications that come with a computer. Our vision for the company was to leave the entire front end open source, as we wanted it to grow with the participation of the user community, so all these applications can be found in the company's repository https://github.com/Inevio.\n\nAt the beginning there were only 4 of us and I stayed on as the lead for the front-end side of the application. We started to grow quickly and got to about 12 in the first year. As the front-end lead, I was responsible for designing the architecture for the front-end side, managing the front-end developers and developing the actual standard initial applications for the product.\n\nAs a partner in the company, I was on the board of directors, designing the roadmap of the company and helping with any problems that might arise in the business side. So I worked on fundraising projects, travelling around the world to raise money for the company, I worked as a commercial, selling our product via email and in the field, and as a product developer, designing how the product would evolve.\n\nhttps://www.youtube.com/watch?v=Ph7nDKYyaqE"
               }
             ],
             "competences": [
