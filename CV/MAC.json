@@ -279,9 +279,10 @@
         "organization": {
           "name": "Aplanet",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/218e3112-37e9-4217-bb1f-ed5a7a71cd2b_aplanetlogo_green-1-.png",
-            "alt": "aplanetlogo_green-1-1024x342-1.png"
-          }
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/19/0540ba39-aa07-4bb4-9298-87b11ce2f718_1680196547948.jpeg",
+            "alt": "1680196547948.jpeg"
+          },
+          "URL": "https://aplanet.org/"
         },
         "roles": [
           {
@@ -290,7 +291,7 @@
             "finishDate": "2020-03-01",
             "challenges": [
               {
-                "description": "Development of web applications frontend with React, Redux and last frontend technologies."
+                "description": "Aplanet is a startup that develops two products to help companies do their social and environmental aid better, easier and faster.\n\nI joined as Senior Front End Developer to lead the build of their two apps with React.Js and Redux from the two MVPs they already had. I was involved in architecture and process design, product development and design."
               }
             ],
             "competences": [
@@ -332,6 +333,10 @@
               },
               {
                 "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               },
               {
