@@ -507,18 +507,19 @@
         "organization": {
           "name": "Accenture",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/9c1c6886-76f2-4f4f-8877-1dfc314e51f5_accenture-logo.png",
-            "alt": "Accenture-Logo.png"
-          }
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/19/fb50a018-1faa-467e-8c93-d58dd01fafdf_unnamed.jpg",
+            "alt": "unnamed.jpg"
+          },
+          "URL": "https://www.accenture.com/"
         },
         "roles": [
           {
-            "name": "Frontend Developer",
+            "name": "Lead Frontend Developer",
             "startDate": "2014-07-01",
             "finishDate": "2015-03-01",
             "challenges": [
               {
-                "description": "Architecture and Visual design, using JSPs, Html, JavaScript, CSS, jQuery and others resources."
+                "description": "Worked for Accenture on a project for France Telecom on their two e-commerce sites, amena.com and orange.com. In this second stage at the company, as they started to need some more work on the front end, I ended up as their frontend lead, developing some simple pages with HTML, CSS and Javascript with jQuery.Worked for Accenture on a project for France Telecom on their two e-commerce sites, amena.com and orange.com. In this second stage at the company, as they started to need some more work on the front end, I ended up as their frontend lead, developing some simple pages with HTML, CSS and Javascript with jQuery.\n"
               }
             ],
             "competences": [
