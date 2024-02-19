@@ -559,27 +559,40 @@
         "organization": {
           "name": "Accenture",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/07/b07abd8d-40da-4283-bf16-d828adc0c75c_accenture-logo.png",
-            "alt": "Accenture-Logo.png"
-          }
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/19/1e2f5c83-173d-469a-a471-08c63421051b_unnamed.jpg",
+            "alt": "unnamed.jpg"
+          },
+          "URL": "https://www.accenture.com"
         },
         "roles": [
           {
-            "name": "ATG Developer",
+            "name": "Junior Developer",
             "startDate": "2014-05-01",
             "finishDate": "2014-07-01",
             "challenges": [
               {
-                "description": "Software Development, using ATGv10, Java, Sql, webLogic and other resources."
+                "description": "Worked for Accenture on a project for France Telecom on their two e-commerce sites, amena.com and orange.com. In this first stage with the company, I worked on both client and server sides. On the server side we used ATGv10, Java, Sql, webLogic and other resources and on the client side we used HTML, Css and vanilla Javascript."
               }
             ],
             "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
               {
                 "name": "JAVA",
                 "type": "technology"
               },
               {
                 "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
