@@ -103,7 +103,7 @@
             "finishDate": "2024-07-01",
             "challenges": [
               {
-                "description": "I worked on a Cloud-based payments company platform within two teams. \n\nOne responsible for the Authentication step of the payment process. Where I was in charge of the Challenge step of the process where the Bank request some user interaction through the browser. This was done with a MVC .Net application within the 3DS2 EMVco domain that returned some Html pages to complete the challenge. \n\nAlso I was part of other team in charge of showing the Merchants some important data from their payments. There I was using React v18 + Typescript as long with some testing libraries like React Testing Library and Cypress.\n"
+                "description": "Working for Parser Digital (https://www.parserdigital.com/), a consultancy firm within Checkout.com client, a cloud-based payment company platform, working within two teams. \n\nOne responsible for the Authentication step of the payment process. Where I was in charge of the Challenge step of the process where the Bank request some user interaction through the browser. This was done with a MVC .Net application within the 3DS2 EMVco domain that returned some Html pages to complete the challenge. \n\nAlso I was part of other team in charge of showing the Merchants some important data from their payments. There I was using React v18 + Typescript as long with some testing libraries like React Testing Library and Cypress.\n"
               }
             ],
             "competences": [
