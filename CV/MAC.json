@@ -46,11 +46,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "checkout.com",
+          "name": "Checkout.com",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/16/4ff201ad-f8ff-46ea-9bc4-bcf89ccccf73_images.png",
             "alt": "images.png"
-          }
+          },
+          "URL": "https://www.checkout.com/"
         },
         "roles": [
           {
