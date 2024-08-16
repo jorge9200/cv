@@ -46,6 +46,49 @@
     "jobs": [
       {
         "organization": {
+          "name": "British Airways",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/16/5a5fdf78-8e67-4394-babe-f95a4e7f8083_tujr8mwz_400x400.jpg",
+            "alt": "TUJR8Mwz_400x400.jpg"
+          },
+          "URL": "https://www.britishairways.com"
+        },
+        "roles": [
+          {
+            "name": "Frontend Lead",
+            "startDate": "2024-08-01",
+            "challenges": [
+              {
+                "description": "Working for British Airways on a optimization project where we are using a data model engine to show data to stakeholders. That way they can improve processes and tasks. \n\nI am working as a Senior Frontend Developer leading the Frontend team with other two developers. We are starting from a previous developed MVP with a high tech debt. The main goal its to refactor it with a better structure, a testing suite and best practices."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Canva",
+                "type": "technology"
+              },
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Checkout.com",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/16/4ff201ad-f8ff-46ea-9bc4-bcf89ccccf73_images.png",
